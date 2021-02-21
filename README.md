@@ -10,16 +10,13 @@ https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1559.md
 
 https://twitter.com/aantonop/status/1292877311570857990?s=19
 
-Vitalik Buterin, "Overview of Ethereum 2.0"
-https://youtu.be/izzMuxD4OAM
+[Vitalik Buterin, "Overview of Ethereum 2.0"](https://youtu.be/izzMuxD4OAM)
 
-Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money | Lex Fridman Podcast #80
-https://www.youtube.com/watch?v=3x1b_S6Qp2Q&feature=youtu.be
+[Vitalik Buterin: Ethereum, Cryptocurrency, and the Future of Money | Lex Fridman Podcast #80](https://www.youtube.com/watch?v=3x1b_S6Qp2Q)
 
-https://github.com/ethereumbook/ethereumbook/blob/develop/preface.asciidoc
+[Master Ethereum, free book](https://github.com/ethereumbook/ethereumbook/blob/develop/preface.asciidoc)
 
-An Incomplete Guide to Rollups
-https://vitalik.ca/general/2021/01/05/rollup.html
+[An Incomplete Guide to Rollups, by vbuterin](https://vitalik.ca/general/2021/01/05/rollup.html)
 
 # DeFi
 https://defipulse.com/
@@ -27,18 +24,12 @@ https://defipulse.com/
 https://www.coindesk.com/what-is-defi
 
 # Bitcoin
-Andreas M. Antonopoulos educates Senate of Canada about Bitcoin (Oct 8, 2014)
+[Andreas M. Antonopoulos educates Senate of Canada about Bitcoin (Oct 8, 2014)](https://www.youtube.com/watch?v=xUNGFZDO8mM)
 
-https://www.youtube.com/watch?v=xUNGFZDO8mM
+[Bitcoin and the Banks, Five Stages of Grief by Andreas M. Antonopoulos](https://www.youtube.com/watch?v=43Ucj6_Erb0)
 
-Bitcoin and the Banks - Five Stages of Grief by Andreas M. Antonopoulos
-
-https://www.youtube.com/watch?v=43Ucj6_Erb0
-
-Everything you need to know about Bitcoin
-
-https://youtu.be/vUOpKfCuV_E
+[Everything you need to know about Bitcoinm Koncrete Podcast](https://youtu.be/vUOpKfCuV_E)
 
 # Other
 
-https://education.district0x.io/general-topics/ethereum-scaling/ethereum-scalability-trilemma/
+[Scalability Trilemma](https://education.district0x.io/general-topics/ethereum-scaling/ethereum-scalability-trilemma/)
