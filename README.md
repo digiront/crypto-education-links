@@ -2,6 +2,9 @@
 Useful resources for folks interested in cryptocurrencies.
 
 # Etehreum
+
+https://ethereum.org/en/whitepaper/
+
 https://ethereum.org/en/
 
 https://docs.ethhub.io/
