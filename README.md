@@ -28,12 +28,15 @@ https://www.coindesk.com/what-is-defi
 
 # Bitcoin
 Andreas M. Antonopoulos educates Senate of Canada about Bitcoin (Oct 8, 2014)
+
 https://www.youtube.com/watch?v=xUNGFZDO8mM
 
 Bitcoin and the Banks - Five Stages of Grief by Andreas M. Antonopoulos
+
 https://www.youtube.com/watch?v=43Ucj6_Erb0
 
 Everything you need to know about Bitcoin
+
 https://youtu.be/vUOpKfCuV_E
 
 # Other
